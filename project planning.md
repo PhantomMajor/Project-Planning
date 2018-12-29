@@ -5,7 +5,7 @@ Project planning saves time, money and prevents a lot of problems.
 
 ## Step 1: Goals ##
 
-A project is successful when the __needs__ of the stakeholders (anyone impacted by the project).
+A project is successful when the __needs__ of the stakeholders (anyone impacted by the project) are met.
 
 Examples of Stakeholders:
 - Sopnsor
